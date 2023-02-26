@@ -1,5 +1,8 @@
 # Temperature-Logger
-A project where a microcontroller is used to stream real time temperature data to a python script for display
+
+This was a collaberative project between myself and another UBC student Eric Lim
+
+A Microcontroller is used to stream real time temperature data to a python script for display
 
 The microcontroller streams the data to python through SPI over a USB port and the python script plots it in real time 
 
